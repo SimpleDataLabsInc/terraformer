@@ -30,7 +30,7 @@ const (
 	// Plan is the terraform `plan` command.
 	Plan Command = "plan"
 	// TerraformerFinalizer is the finalizer used by the terraformer on the terraform configmaps and secrets
-	TerraformerFinalizer = "gardener.cloud/terraformer"
+	TerraformerFinalizer = "prophecy.io/terraformer"
 )
 
 // SupportedCommands contains the set of supported terraform commands, that can be run as `terraformer <command>`.

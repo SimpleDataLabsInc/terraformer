@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash -ex
 #
 # SPDX-FileCopyrightText: 2020 SAP SE or an SAP affiliate company and Gardener contributors
 #

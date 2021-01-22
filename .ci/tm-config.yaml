@@ -1,4 +1,0 @@
-test:
-  default:
-    testrunPath: .ci/testruns/default/templates/testrun.yaml
-    template: true
